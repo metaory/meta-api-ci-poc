@@ -5,7 +5,8 @@
   "license": "MIT",
   "author": "metaory@gmail.com",
   "scripts": {
-    "start": "node index"
+    "start": "node index",
+    "test": "echo ok!"
   },
   "dependencies": {
     "koa": "^2.7.0"
