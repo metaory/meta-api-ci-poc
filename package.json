@@ -1,0 +1,13 @@
+{
+  "name": "meta-ci-poc",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "author": "metaory@gmail.com",
+  "scripts": {
+    "start": "node index"
+  },
+  "dependencies": {
+    "koa": "^2.7.0"
+  }
+}
